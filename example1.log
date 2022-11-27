@@ -1,0 +1,4 @@
+Sat 11/26/2022 03:13:50 PM : WARNING  : root : This is a warning message 
+Sat 11/26/2022 03:13:50 PM : INFO  : root : This is a info message 
+Sat 11/26/2022 03:13:50 PM : ERROR  : root : This is a error message 
+Sat 11/26/2022 03:13:50 PM : CRITICAL  : root : This is a critical message  
